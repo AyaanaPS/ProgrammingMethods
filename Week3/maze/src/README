@@ -1,0 +1,9 @@
+A DFS is faster when you have fewer branches compared to the number of levels you have. 
+A BFS is faster when you have more branches compared to the number of levels you have.
+
+An example of using a stack is when you are stacking legos and you have to remove starting
+from the top.
+An example of using a queue is when people are waiting in line for a movie and they enter
+in the order that they arrived.
+
+
